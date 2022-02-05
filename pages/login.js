@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import Head from 'next/Head';
+import Head from 'next/head';
 import { Button } from '@mui/material';
 import { auth, provider } from '../firebase';
 
